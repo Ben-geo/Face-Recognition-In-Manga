@@ -9,5 +9,5 @@
   To Build a Face Recignition Model to Recognise the main characters from any page of a manga
 
 
-
-the above image has two characters Luffy and Nami
+example: the First image has two characters Luffy and Nami
+  our model should be able to recognise the characters
